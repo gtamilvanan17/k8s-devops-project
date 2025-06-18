@@ -1,6 +1,6 @@
 image:
   repository: tamil17/k8s-devops-project
-  tag: 4ce272e
+  tag: df987ce
   pullPolicy: IfNotPresent
 service:
   type: ClusterIP
